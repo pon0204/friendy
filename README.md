@@ -14,7 +14,7 @@
 
 バックエンド:  Nest.js | Primsa | GraphQL
 
-フロントエンド: Next.js | React Hook Form | zod 
+フロントエンド: Next.js | MUI | React Hook Form | zod 
 
 インフラ: AWSCDK | FargateかApp runner
 
