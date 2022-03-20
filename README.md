@@ -1,4 +1,4 @@
-# heromission
+# friendy
 
 ## 目的
 
@@ -16,3 +16,6 @@
 インフラ: FargateかApp runner
 
 その他: Messaging API LIFF
+
+
+↑の構成はお金がかかるので、勉強で作りきったあとは、 Next.js × prisma × PlanetScale × Amplify 構成にする。
