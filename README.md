@@ -1,4 +1,4 @@
-# nest-next-traning
+# nest-next-training
 
 ## 目的
 - Nest.jsとNext.jsやインフラなどの勉強用
