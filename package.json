@@ -1,0 +1,9 @@
+{
+  "name": "nest-next-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/cli": "^8.2.3"
+  }
+}
