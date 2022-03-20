@@ -1,21 +1,22 @@
-# friendy
+# nest-next-traning
 
 ## 目的
+- Nest.jsとNext.jsやインフラなどの勉強用
 
-- ポートフォリオづくり
-- 勉強用
+[要件]
+- データは、ユーザー/投稿/コメント
+- アーキテクチャ通りに実装。
+- 使いまわせることを目標にする。
 
-5月30日までに作る。
+3月30日までに作る。
 
-## アーキテクチャ予定
+## アーキテクチャ
 
-バックエンド:  Nest.js × Primsa × GraphQL
+バックエンド:  Nest.js | Primsa | GraphQL
 
-フロントエンド: Next.js
+フロントエンド: Next.js | React Hook Form | zod 
 
-インフラ: FargateかApp runner
+インフラ: AWSCDK | FargateかApp runner
 
-その他: Messaging API LIFF
+その他: Github actions
 
-
-↑の構成はお金がかかるので、勉強で作りきったあとは、 Next.js × prisma × PlanetScale × Amplify 構成にする。
